@@ -1,0 +1,14 @@
+EASY_RSA=/etc/openvpn/easy-rsa/2.0
+OPENSSL=openssl
+PKCS11TOOL=pkcs11-tool
+GREP=grep
+KEY_CONFIG=/etc/openvpn/easy-rsa/2.0/openssl.cnf
+KEY_DIR=/etc/openvpn/easy-rsa/2.0/keys
+KEY_SIZE=1024
+CA_EXPIRE=3650
+KEY_EXPIRE=3650
+KEY_COUNTRY=RO
+KEY_PROVINCE=SB
+KEY_CITY=Sibiu
+KEY_ORG=ME
+KEY_EMAIL=cristian.nicoara@mylinuxstuff.org
